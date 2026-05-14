@@ -43,6 +43,7 @@
 - [✨ Key Highlights](#-key-highlights)
 - [📊 Dashboard Features](#-dashboard-features)
 - [🗂️ Data Insights](#️-data-insights)
+- [🗃️ Dataset Overview](#️-dataset-overview)
 - [🛠️ Tools & Technologies](#️-tools--technologies)
 - [📁 Project Structure](#-project-structure)
 - [🚀 How to Use](#-how-to-use)
@@ -108,6 +109,21 @@ Whether you're a **business analyst**, **retail manager**, or **data enthusiast*
 
 ---
 
+## 🗃️ Dataset Overview
+
+| Field | Details |
+|---|---|
+| 📁 Files | `BigBazaar_Sales.xlsx` + `BigBazaar_Sales_Dataset.csv` |
+| 📝 Total Records | ~85,000 transactions |
+| 📅 Date Range | 2023 – 2024 |
+| 🏪 Stores | Multiple formats — Hypermarket, fbb |
+| 🔑 Key Columns | Transaction_ID, Store_Name, Department, Category, Product_Name, Brand, Quantity, Unit_Price, Gross_Sales, Discount, Net_Revenue, Payment_Mode, Customer_Rating |
+| 💳 Payment Modes | Cash, Credit Card, UPI |
+| ⭐ Customer Rating | 1.0 – 5.0 scale |
+
+---
+
+
 ## 🛠️ Tools & Technologies
 
 <div align="center">
@@ -128,9 +144,11 @@ Whether you're a **business analyst**, **retail manager**, or **data enthusiast*
 
 ```
 📦 Big_bazar_sales_dashboard/
-├── 📊 big_bazar_sales.pbix               ← Power BI Dashboard File
-├── 🖼️ Big_Bazaar_Sales_Dashboard_Overview.png  ← Dashboard Screenshot
-└── 📄 README.md                          ← You are here!
+├── 📊 day_3big_bazar_sales.pbix                  ← Power BI Dashboard File
+├── 📂 BigBazaar_Sales.xlsx                       ← Cleaned Dataset (Excel)
+├── 📂 BigBazaar_Sales_Dataset.csv                ← Raw Dataset (CSV · 85,000 rows)
+├── 🖼️ Big_Bazaar_Sales_Dashboard_Overview.png   ← Dashboard Screenshot
+└── 📄 README.md                                  ← You are here!
 ```
 
 ---
