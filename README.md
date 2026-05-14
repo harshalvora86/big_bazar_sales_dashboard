@@ -7,7 +7,7 @@
 <div align="center">
 
 <!-- BANNER -->
-<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=800&size=38&pause=1000&color=FF6B00&center=true&vCenter=true&width=800&height=80&lines=🛒+BIG+BAZAAR+SALES+DASHBOARD;📊+Power+BI+%7C+Data+Analytics;🚀+Built+for+Insight%2C+Driven+by+Data" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FF6B00&height=200&section=header&text=🛒%20BIG%20BAZAAR%20SALES%20DASHBOARD&fontSize=36&fontColor=ffffff&fontAlignY=40&desc=📊%20Power%20BI%20%7C%20Data%20Analytics%20%7C%20Retail%20Insights&descAlignY=65&descSize=18&animation=fadeIn" width="100%"/>
 
 <br/>
 
